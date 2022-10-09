@@ -30,16 +30,18 @@ This repository is a collection of datasets and papers for AI in particle physic
             <td align="center"></td>
             <td align="center">Year</td>
             <td align="center">Source</td>
-            <td align="center">Title</td>
+            <td align="center">Paper</td>
             <td align="center">Code</td>
             <td align="center">Datasets<td>
         </tr>
         <tr>
-            <td align="center"><img src="Figs/ParT_arch.png" </td>
+            <td align="center"><img src="figs/ParT_arch.png" </td>
             <td align="center">2022 ParT</td>
-            <td align="center">ArXiv HuiLin Qu et.al.</td>
-            <td align="center">ParT: Particle Transformer for Jet Tagging</td>
-            <td align="center">a<a href="https://github.com/jet-universe/particle_transformer"><img src=https://img.shields.io/github/stars/zhangzhengde0225/FINet"</a></td>
+            <td align="center">HuiLin Qu et.al. <a href="https://github.com/jet-universe/particle_transformer">Github</a></td>
+            <td align="center"><a herf="https://arxiv.org/abs/2202.03772">Particle Transformer for Jet Tagging</td>
+            <td align="center">
+                <a href="https://code.ihep.ac.cn/zdzhang/hai">HAI</a>
+            </td>
 </table>
 </details>
 
@@ -68,4 +70,11 @@ This repository is a collection of datasets and papers for AI in particle physic
 
 
 
-## Contributors
+## Contributing
+
+We appreciate all contributions to make this repository better. Welcome to participate in this project via the following ways:
+
+- **Star** this repository to show your interest.
+- **Fork** this repository and submit a **Pull Request** to add new papers or datasets, or fix bugs. Please refer to [contributing.md](docs/contributing.md) for more details.
+
+
