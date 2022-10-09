@@ -29,25 +29,45 @@ This repository is a collection of datasets and papers for AI in particle physic
         <tr>
             <td align="center"></td>
             <td align="center">Year</td>
-            <td align="center">Author</td>
-            <td align="center">Paper</td>
-            <td align="center">Code</td>
+            <!-- <td align="center">Author</td> -->
+            <td align="center">Title</td>
+            <td align="center">Codes</td>
             <td align="center">Datasets</td>
         </tr>
+        <!-- ParT -->
         <tr>
             <td align="center"><img src="figs/ParT_arch.png" </td>
             <td align="center">
-                <a href="https://github.com/jet-universe/particle_transformer">2022 ParT</td>
-            <td align="center">ArXiv HuiLin Qu et.al.</a></td>
+                <a href="https://github.com/jet-universe/particle_transformer">2022 Particle Transformer</td>
+            <!-- <td align="center">HuiLin Qu et.al.</a></td> -->
             <td align="center">
-                <a herf="https://arxiv.org/abs/2202.03772">Particle Transformer for Jet Tagging</td>
+                <a href="https://arxiv.org/abs/2202.03772">Particle Transformer for Jet Tagging (ArXiv)</td>
             <td align="center">
-                <a href="https://code.ihep.ac.cn/zdzhang/hai">HAI✅</a></td>
+                <li><a href="https://code.ihep.ac.cn/zdzhang/hai">Avail in HAI✅</a></td></li>
             <td align="center">JetClass✅</td>
+        </tr>
+        <tr>
+            <td align="center"><img src="figs/LundNet_arch.jpg" </td>
+            <td align="center">2021 LundNet (JHEP)</td>
+            <!-- <td align="center">Frédéric A. Dreyer and  Huilin Qu -->
+            <td align="center">Jet tagging in the Lund plane with graph networks</td>
+        </tr>
+        <!-- PN -->
+        <tr>
+            <td align="center"><img src="figs/PN_arch.jpg" </td>
+            <td align="center">
+                <a href="https://github.com/hqucms/ParticleNet">ParticleNet (2020 PRD)
+                </td>
+            <!-- <td align="center">Huilin Qu and Loukas Gouskos</a></td> -->
+            <td align="center">
+                <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.056019">ParticleNet: Jet Tagging via Particle Clouds</td>
+            <td align="center">
+                <a href="https://code.ihep.ac.cn/zdzhang/hai">Avail in HAI✅</a></td>
+            <td align="center">JetClass✅</td>
+        </tr>
     </tbody>
 </table>
 
-<iframe src="https://github.com/zhangzhengde0225/AI_for_Particle_Physics/blob/main/docs/xxx.md"></iframe>
 </details>
 
 <details open>
