@@ -47,8 +47,8 @@ This repository is a collection of datasets and papers for AI in particle physic
     </tbody>
 </table>
 
-<iframe src="xxx.html">xxx
-</details>S
+<iframe src="docs/xxx.md"></iframe>
+</details>
 
 <details open>
 <summary><b>Particle Identification</b></summary>
