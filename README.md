@@ -47,7 +47,7 @@ This repository is a collection of datasets and papers for AI in particle physic
     </tbody>
 </table>
 
-<iframe src="docs/xxx.md"></iframe>
+<iframe src="https://github.com/zhangzhengde0225/AI_for_Particle_Physics/blob/main/docs/xxx.md"></iframe>
 </details>
 
 <details open>
