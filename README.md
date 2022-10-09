@@ -21,4 +21,52 @@ This repository is a collection of datasets and papers for AI in particle physic
 
 ## Overview 
 
+![xx](Figs/arch.png)
 
+### Papers
+<details open>
+<summary><b>Jet Tagging</b></summary>
+<table align="center">
+    <tbody>
+        <tr>
+            <td align="center">Title</td>
+            <td align="center">Authors</td>
+            <td align="center">Conference</td>
+            <td align="center">Year</td>
+            <td align="center">Code</td>
+        </tr>
+        <tr>
+            <td align="center"><img src="Figs/arch.png"</img>Deep Learning for Particle Physics: A Review</td>
+            <td align="center">Zhang, Zhengde</td>
+            <td align="center">IEEE Transactions on Instrumentation and Measurement</td>
+            <td align="center">2022</td>
+            <td align="center"><a href="">🌟[link]</a></td>
+</table>
+</details>
+
+<details open>
+<summary><b>Particle Identification</b></summary>
+
+</details>
+
+<details open>
+<summary><b>Particle Tracking</b></summary>
+
+</details>
+
+<details open>
+<summary><b>Event Reconstruction</b></summary>
+
+</details>
+
+<details open>
+<summary><b>Other</b></summary>
+</details>
+
+
+### Datasets
+
+
+
+
+## Contributors
