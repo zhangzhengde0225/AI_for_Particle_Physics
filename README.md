@@ -36,7 +36,7 @@ This repository is a collection of datasets and papers for AI in particle physic
         </tr>
         <!-- ParT -->
         <tr>
-            <td align="center"><img src="figs/ParT_arch.png" </td>
+            <td align="center"><img src="figs/ParT_arch.png" width='150'> </td>
             <td align="center">
                 <a href="https://github.com/jet-universe/particle_transformer">2022 Particle Transformer</td>
             <!-- <td align="center">HuiLin Qu et.al.</a></td> -->
