@@ -36,7 +36,7 @@ This repository is a collection of datasets and papers for AI in particle physic
         </tr>
         <!-- ParT -->
         <tr>
-            <td align="center"><img src="figs/ParT_arch.png" width='150'> </td>
+            <td align="center"><img src="figs/ParT_arch.png" height='100'> </td>
             <td align="center">
                 <a href="https://github.com/jet-universe/particle_transformer">2022 Particle Transformer</td>
             <!-- <td align="center">HuiLin Qu et.al.</a></td> -->
@@ -47,14 +47,14 @@ This repository is a collection of datasets and papers for AI in particle physic
             <td align="center">JetClass✅</td>
         </tr>
         <tr>
-            <td align="center"><img src="figs/LundNet_arch.jpg" </td>
+            <td align="center"><img src="figs/LundNet_arch.jpg" height='100'> </td>
             <td align="center">2021 LundNet (JHEP)</td>
             <!-- <td align="center">Frédéric A. Dreyer and  Huilin Qu -->
             <td align="center">Jet tagging in the Lund plane with graph networks</td>
         </tr>
         <!-- PN -->
         <tr>
-            <td align="center"><img src="figs/PN_arch.jpg" </td>
+            <td align="center"><img src="figs/PN_arch.jpg" height='100'> </td>
             <td align="center">
                 <a href="https://github.com/hqucms/ParticleNet">ParticleNet (2020 PRD)
                 </td>
