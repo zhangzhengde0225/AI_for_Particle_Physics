@@ -1,5 +1,5 @@
 
-#### English | [简体中文](https://github.com/zhangzhengde0225/FINet/blob/main/docs/README_zh_cn.md)
+#### English | [简体中文](https://github.com/zhangzhengde0225/AI_for_Particle_Physics/blob/main/docs/README_zh_cn.md)
 
 # AI for Particle Physics: Papers & Datasets
 
