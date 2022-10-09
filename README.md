@@ -15,7 +15,7 @@ This repository is a collection of datasets and papers for AI in particle physic
 
 ## Overview 
 [![Paper](https://img.shields.io/static/v1?label=Read&message=paper&color=pink)](
-https://doi.org/10.1109/TIM.2022.3194909)
+https://code.ihep.ac.cn/zdzhang/hai)
 
 ### Papers
 <details open>
@@ -109,7 +109,7 @@ https://doi.org/10.1109/TIM.2022.3194909)
 
 ### Datasets
 [![Datasets](https://img.shields.io/static/v1?label=Download&message=datasets&color=green)](
-https://github.com/zhangzhengde0225/FINet/blob/master/docs/datasets.md)
+https://code.ihep.ac.cn/zdzhang/hai)
 
 
 
