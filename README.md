@@ -44,15 +44,17 @@ This repository is a collection of datasets and papers for AI in particle physic
                 <a href="https://arxiv.org/abs/2202.03772">Particle Transformer for Jet Tagging (ArXiv)</td>
             <td align="center">
                 <li><a href="https://github.com/jet-universe/particle_transformer">
-                Official  ✅</a></li>
-                <li><a href="https://code.ihep.ac.cn/zdzhang/hai">Avail in HAI ✅</a></li>
-            <td align="center">JetClass ✅</td>
+                Official</a></li>
+                <li><a href="https://code.ihep.ac.cn/zdzhang/hai">Avail in HAI</a></li>
+            <td align="center">JetClass</td>
         </tr>
         <tr>
             <td align="center"><img src="figs/LundNet_arch.jpg" height='100'> </td>
             <td align="center">2021 LundNet (JHEP)</td>
             <!-- <td align="center">Frédéric A. Dreyer and  Huilin Qu -->
             <td align="center">Jet tagging in the Lund plane with graph networks</td>
+            <td align="center">
+            <td align="center"> 
         </tr>
         <!-- PN -->
         <tr>
@@ -64,8 +66,8 @@ This repository is a collection of datasets and papers for AI in particle physic
             <td align="center">
                 <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.056019">ParticleNet: Jet Tagging via Particle Clouds</td>
             <td align="center">
-                <a href="https://code.ihep.ac.cn/zdzhang/hai">Avail in HAI ✅</a></td>
-            <td align="center">JetClas s✅</td>
+                <a href="https://code.ihep.ac.cn/zdzhang/hai">Avail in HAI</a></td>
+            <td align="center">JetClass</td>
         </tr>
     </tbody>
 </table>
