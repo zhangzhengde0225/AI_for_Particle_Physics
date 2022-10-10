@@ -60,8 +60,8 @@ https://code.ihep.ac.cn/zdzhang/hai)
             <td align="center">
                 <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.056019">ParticleNet: Jet Tagging via Particle Clouds (PRD)</td>
             <td align="center">
-                <li><a href="https://github.com/hqucms/ParticleNet">Origin
-                <li><a href="https://code.ihep.ac.cn/zdzhang/hai">Avail in HAI</a></td>
+                <a href="https://github.com/hqucms/ParticleNet">Origin</a> | 
+                <a href="https://code.ihep.ac.cn/zdzhang/hai">Avail in HAI</a></td>
         </tr>
         <!-- PFN -->
         <tr>
