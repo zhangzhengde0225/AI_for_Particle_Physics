@@ -17,6 +17,9 @@ This repository is a collection of datasets and papers for AI in particle physic
 [![Paper](https://img.shields.io/static/v1?label=Read&message=paper&color=pink)](
 https://code.ihep.ac.cn/zdzhang/hai)
 
+
+
+
 ### Papers
 <details open>
 <summary><b>Jet Tagging</b></summary>
@@ -26,7 +29,7 @@ https://code.ihep.ac.cn/zdzhang/hai)
             <td align="center"><b>Arch</td>
             <td align="center"><b>Neural Network</td>
             <!-- <td align="center">Author</td> -->
-            <td align="center"><b>Paper</td>
+            <td align="center"><b>Title</td>
             <td align="center"><b>Source Codes</td>
             <td align="center"><b>Is avail in HAI</td>
         </tr>
@@ -36,12 +39,13 @@ https://code.ihep.ac.cn/zdzhang/hai)
             <td align="center">2022 Particle Transformer</td>
             <!-- <td align="center">HuiLin Qu et.al.</a></td> -->
             <td align="center">
-                <a href="https://arxiv.org/abs/2202.03772">Particle Transformer for Jet Tagging (ArXiv)</td>
+                Particle Transformer for Jet Tagging (ArXiv) 
+                <a href="https://arxiv.org/abs/2202.03772"><img src="https://img.shields.io/static/v1?label=Read&message=paper&color=pink"></img>
+                </td>
             <td align="center">
-                <a href="https://github.com/jet-universe/particle_transformer">
-                Github</a>
+                <a href="https://github.com/jet-universe/particle_transformer"><img src="https://img.shields.io/static/v1?logo=github&label=Origin&message=codes">
             <td align="center">
-                <a href="https://code.ihep.ac.cn/zdzhang/hai"><b>Yes</a>
+                <a href="https://code.ihep.ac.cn/zdzhang/hai"><b><img src="https://img.shields.io/static/v1?logo=Github&label=Avail in&message=HAI&color=blue"></a>
             <!-- <td align="center">JetClass</td> -->
         </tr>
         <tr>
@@ -49,42 +53,43 @@ https://code.ihep.ac.cn/zdzhang/hai)
             <td align="center">2021 LundNet</td>
             <!-- <td align="center">Frédéric A. Dreyer and  Huilin Qu -->
             <td align="center">
-                <a href="https://doi.org/10.1007/jhep03(2021)052">Jet tagging in the Lund plane with graph networks (JHEP)</td>
+                Jet tagging in the Lund plane with graph networks (JHEP) 
+                <a href="https://doi.org/10.1007/jhep03(2021)052"><img src="https://img.shields.io/static/v1?label=Read&message=paper&color=pink"></img></td>
             <td align="center">
-                <a href="https://github.com/fdreyer/lundnet">Origin</a>
+                <a href="https://github.com/fdreyer/lundnet"><img src="https://img.shields.io/static/v1?logo=github&label=Origin&message=codes"></a>
             <td align="center">
-                No (TODO)</a>
+                TODO</a>
         </tr>
         <!-- PN -->
         <tr>
             <td align="center"><img src="figs/PN_arch.jpg" height='100'> </td>
             <td align="center">2020 ParticleNet</td>
             <td align="center">
-                <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.056019">ParticleNet: Jet Tagging via Particle Clouds (PRD)</td>
+                ParticleNet: Jet Tagging via Particle Clouds (PRD) <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.056019"><img src="https://img.shields.io/static/v1?label=Read&message=paper&color=pink"></td>
             <td align="center">
-                <a href="https://github.com/hqucms/ParticleNet">Origin</a>
+                <a href="https://github.com/hqucms/ParticleNet"><img src="https://img.shields.io/static/v1?logo=github&label=Origin&message=codes"></a>
             <td align="center">
-                <a href="https://code.ihep.ac.cn/zdzhang/hai"><b>Yes</a></td>
+                <a href="https://code.ihep.ac.cn/zdzhang/hai"><img src="https://img.shields.io/static/v1?logo=Github&label=Avail in&message=HAI&color=blue"></a></td>
         </tr>
         <!-- PFN -->
         <tr>
             <td align="center"><img src="figs/PFN_arch.jpg" height='100'> </td>
             <td align="center">2018 Particle Flow Network</td>
             <td align="center">
-                <a href="https://arxiv.org/abs/1810.05165">Energy Flow Networks: Deep Sets for Particle Jets (JHEP)</td>
+                Energy Flow Networks: Deep Sets for Particle Jets (JHEP) <a href="https://arxiv.org/abs/1810.05165"><img src="https://img.shields.io/static/v1?label=Read&message=paper&color=pink"></td>
             <td align="center">-
             <td align="center">
-                <a href="https://code.ihep.ac.cn/zdzhang/hai"><b>Yes</a></td>
+                <a href="https://code.ihep.ac.cn/zdzhang/hai"><img src="https://img.shields.io/static/v1?logo=Github&label=Avail in&message=HAI&color=blue"</a></td>
         </tr>
         <!-- PCNN -->
         <tr> 
             <td align="center"><img src="figs/P-CNN_like_arch.jpg" height='100'> </td>
             <td align="center">2017 P-CNN</td>
             <td align="center">
-                <a href="https://doi.org/10.21468/SciPostPhys.7.1.014">The Machine Learning Landscape of Top Taggers (SciPost Phys)</td>
+                The Machine Learning Landscape of Top Taggers (SciPost Phys) <a href="https://doi.org/10.21468/SciPostPhys.7.1.014"><img src="https://img.shields.io/static/v1?label=Read&message=paper&color=pink"></td>
             <td align="center">-
             <td align="center">
-                <a href="https://code.ihep.ac.cn/zdzhang/hai"><b>Yes</a></td>
+                <a href="https://code.ihep.ac.cn/zdzhang/hai"><img src="https://img.shields.io/static/v1?logo=Github&label=Avail in&message=HAI&color=blue"></a></td>
         </tr>
     </tbody>
 </table>
@@ -116,7 +121,7 @@ Note: HAI is the [High energy physics Artifitial Intelligence](https://code.ihep
 ### Datasets
 [![Datasets](https://img.shields.io/static/v1?label=Download&message=datasets&color=green)](
 https://code.ihep.ac.cn/zdzhang/hai)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3164691.svg)](https://doi.org/10.5281/zenodo.3164691)
 
 <details open>
 <summary><b>Jet Tagging</b></summary>
@@ -131,20 +136,24 @@ https://code.ihep.ac.cn/zdzhang/hai)
         <tr>
             <td align="center"><img src="figs/JetClass_dataset.png" height="100">
             <td align="center">2022 JetClass 
-            <td align="center">Dataset for Jet Tagging. 100M, 5M and 20M jets for training, validation and testing, respectively.
-            <td align="center"><a href="https://doi.org/10.5281/zenodo.6619768">Download
+            <td align="left">Dataset for Jet Tagging. <li>10 classes. <li>100M, 5M and 20M jets for training, validation and testing, respectively.
+            <td align="center"><a href="https://doi.org/10.5281/zenodo.6619768"><img src="https://img.shields.io/static/v1?label=Download&message=dataset&color=green">
         </tr>
         <tr>
-            <td align="center"><img src="figs/TopLandscape.jpg" height="100">
+            <td align="center"><img src="figs/Default_dataset.jpg" height="100">
             <td align="center">TopLandscape 
-            <td align="center">Dataset for Jet Tagging
-            <td align="center"><a href="https://hqu.web.cern.ch/datasets/TopLandscape/TopLandscape.tar">Download
+            <td align="left">Dataset for Jet Tagging
+            <!-- <a href="https://hqu.web.cern.ch/datasets/TopLandscape/TopLandscape.tar"></a> -->
+            <td align="center">
+                <a href="https://hqu.web.cern.ch/datasets/TopLandscape/TopLandscape.tar"><img src="https://img.shields.io/static/v1?label=Download&message=dataset&color=green">
         </tr>
         <tr>
-            <td align="center"><img src="figs/QuarkGluon.jpg" height="100">
+            <td align="center"><img src="figs/QuarkGluon_dataset.jpg" height="100">
             <td align="center">2019 QuarkGluon
-            <td align="center">Dataset for Jet Tagging. Two datasets of quark and gluon jets generated with Pythia 8, one with all kinematically realizable quark jets and one that excludes charm and bottom quark jets.
-            <td align="center"><a href="https://hqu.web.cern.ch/datasets/TopLandscape/TopLandscape.tar">Download
+            <td align="left">Dataset for Jet Tagging. 
+                <li> Two datasets of quark and gluon jets. 
+                <li> Generated with Pythia 8, one with all kinematically realizable quark jets and one that excludes charm and bottom quark jets.
+            <td> <a href='https://doi.org/10.5281/zenodo.3164691'><img src="https://img.shields.io/static/v1?label=Download&message=dataset&color=green">
         </tr>
     </tbody>
 </table>
