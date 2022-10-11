@@ -3,9 +3,9 @@
 
 # AI for Particle Physics: Papers & Datasets
 
-[![Stars](https://img.shields.io/github/stars/zhangzhengde0225/AI_for_Particle_Physics?style=social)](
+[![Stars](https://img.shields.io/github/stars/zhangzhengde0225/AI_for_Particle_Physics)](
 https://github.com/zhangzhengde0225/AI_for_Particle_Physics)
-[![Open issue](https://img.shields.io/github/issues/zhangzhengde0225/AI_for_Particle_Physics?style=social)](
+[![Open issue](https://img.shields.io/github/issues/zhangzhengde0225/AI_for_Particle_Physics)](
 https://github.com/zhangzhengde0225/FINet/AI_for_Particle_Physics)
 
 ## Introduction
@@ -85,6 +85,40 @@ This repository is a collection of datasets and papers for AI in particle physic
             <td align="center">
                 <a href="https://code.ihep.ac.cn/zdzhang/hai"><img src="https://img.shields.io/static/v1?logo=Github&label=HAI&labelColor=blue&message=Avail&color=green"></a></td>
         </tr>
+    </tbody>
+</table>
+
+Note: HAI is the [High energy physics Artifitial Intelligence](https://code.ihep.ac.cn/zdzhang/hai) framework, which provide simple dataset download, training, evaluation, inference and deployment funciton of the benchmarks and datasets of AI4HEP algorithms.
+
+</details>
+
+<details open>
+<summary><b>Particle Identification</b></summary>
+
+</details>
+
+<details open>
+<summary><b>Particle Tracking</b></summary>
+
+</details>
+
+<details open>
+<summary><b>Event Reconstruction</b></summary>
+
+</details>
+
+<details open>
+<summary><b>Other</b></summary>
+<table align="center">
+    <tbody>
+        <tr>
+            <td align="center"><b>Arch</td>
+            <td align="center"><b>Neural Network</td>
+            <!-- <td align="center">Author</td> -->
+            <td align="center"><b>Title</td>
+            <td align="center"><b>Source Codes</td>
+            <td align="center"><b>Is Codes avail in HAI</td>
+        </tr>
         <tr> 
             <td align="center"><img src="figs/Default_arch.png" height='100'> </td>
             <td align="center">2021 Ferminet</td>
@@ -115,30 +149,7 @@ This repository is a collection of datasets and papers for AI in particle physic
             <td align="center">
                 <a href="https://code.ihep.ac.cn/zdzhang/hai"><img src="https://img.shields.io/static/v1?logo=Github&label=HAI&labelColor=blue&message=Not Avail Now&color=red"></a></td>
         </tr>
-    </tbody>
-</table>
-
-Note: HAI is the [High energy physics Artifitial Intelligence](https://code.ihep.ac.cn/zdzhang/hai) framework, which provide simple dataset download, training, evaluation, inference and deployment funciton of the benchmarks and datasets of AI4HEP algorithms.
-
-</details>
-
-<details open>
-<summary><b>Particle Identification</b></summary>
-
-</details>
-
-<details open>
-<summary><b>Particle Tracking</b></summary>
-
-</details>
-
-<details open>
-<summary><b>Event Reconstruction</b></summary>
-
-</details>
-
-<details open>
-<summary><b>Other</b></summary>
+<table>
 </details>
 
 #### TODO:
