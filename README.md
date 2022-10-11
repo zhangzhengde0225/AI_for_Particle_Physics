@@ -10,8 +10,7 @@ https://github.com/zhangzhengde0225/FINet/AI_for_Particle_Physics)
 
 ## Introduction
 
-This repository is a collection of datasets and papers for AI in particle physics. The datasets are collected from the public domain and the papers are collected from the arXiv and the IEEE Xplore. The purpose of this repository is to provide a convenient way for researchers to access the datasets and papers.
-
+This repository is a collection of datasets and papers for AI in particle physics. The datasets are collected from the public domain and the papers are collected from the arXiv, conferences and journals. The purpose of this repository is to provide a convenient way for researchers to access the datasets and papers, and futhur provide a replication tool with a unified API.
 
 ## Overview 
 
