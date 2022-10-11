@@ -108,7 +108,7 @@ Note: HAI is the [High energy physics Artifitial Intelligence](https://code.ihep
 </details>
 
 <details open>
-<summary><b>Other</b></summary>
+<summary><b>Unclassified</b></summary>
 <table align="center">
     <tbody>
         <tr>
@@ -153,17 +153,17 @@ Note: HAI is the [High energy physics Artifitial Intelligence](https://code.ihep
 </details>
 
 #### TODO:
-+ LAGAN
-+ GaloGan
 + 2021 PointNet
++ 2017 LAGAN
++ 2017 GaloGan
 
 ### Datasets
 <!-- [![Datasets](https://img.shields.io/static/v1?label=Download&message=datasets&color=green)](
 https://code.ihep.ac.cn/zdzhang/hai)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3164691.svg)](https://doi.org/10.5281/zenodo.3164691) -->
 
-<details open>
-<summary><b>Jet Tagging</b></summary>
+<!-- <details open> -->
+<!-- <summary><b>Jet Tagging</b></summary> -->
 <table align="center">
     <tbody>
         <tr>
@@ -226,9 +226,8 @@ https://code.ihep.ac.cn/zdzhang/hai)
             <td align="center"><a href="https://gitlab.cern.ch/IML-WG/IMLWorkshop2017-Challenge"><img src="https://img.shields.io/static/v1?label=Download&message=dataset&color=green">
         </tr>
     </tbody>
-
 </table>
-</details>
+<!-- </details> -->
 
 #### TODO
 
