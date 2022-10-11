@@ -25,7 +25,7 @@ This repository is a collection of datasets and papers for AI in particle physic
             <!-- <td align="center">Author</td> -->
             <td align="center"><b>Title</td>
             <td align="center"><b>Source Codes</td>
-            <td align="center"><b>Is Codes avail in HAI</td>
+            <td align="center"><b>Unified API</td>
         </tr>
         <!-- ParT -->
         <tr>
@@ -117,7 +117,7 @@ Note: HAI is the [High energy physics Artifitial Intelligence](https://code.ihep
             <!-- <td align="center">Author</td> -->
             <td align="center"><b>Title</td>
             <td align="center"><b>Source Codes</td>
-            <td align="center"><b>Is Codes avail in HAI</td>
+            <td align="center"><b>Unified API</td>
         </tr>
         <tr> 
             <td align="center"><img src="figs/Default_arch.png" height='100'> </td>
